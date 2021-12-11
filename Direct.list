@@ -33,6 +33,13 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 
+# > Tencent
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.com
+USER-AGENT,MicroMessenger*
+
 # > OneDrive
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
@@ -47,3 +54,6 @@ PROCESS-NAME,/Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outloo
 PROCESS-NAME,/usr/libexec/trustd
 PROCESS-NAME,Mail
 PROCESS-NAME,Google Chrome
+
+# > User Agent
+
