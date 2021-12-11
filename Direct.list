@@ -78,6 +78,7 @@ USER-AGENT,HSBCMobile*
 DOMAIN-SUFFIX,ihg.com
 DOMAIN-SUFFIX,crzytsy.com
 DOMAIN,ihg.scene7.com
+USER-AGENT,ApptentiveConnect*
 USER-AGENT,IHGBranded*
 
 # > Microsoft
