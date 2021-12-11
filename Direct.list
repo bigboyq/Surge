@@ -107,10 +107,27 @@ DOMAIN-SUFFIX,venmo.com
 USER-AGENT,PayPal*
 
 # > Tencent
+DOMAIN-SUFFIX,cdn-go.cn
+DOMAIN-SUFFIX,gcloudgbs.com
+DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,url.cn
+DOMAIN-SUFFIX,wecomics.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weiyun.com
 USER-AGENT,MicroMessenger*
 
 # > Zhihu
