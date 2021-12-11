@@ -1,9 +1,3 @@
-# > PayPal
-USER-AGENT,PayPal*
-DOMAIN-KEYWORD,paypal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
-
 # > Apple
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
@@ -33,6 +27,12 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,windows.net
 
+# > PayPal
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+
 # > OneDrive
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
@@ -41,3 +41,9 @@ USER-AGENT,OneDriveiOSApp*
 
 # > Outlook
 PROCESS-NAME,Microsoft Outlook
+
+# > Process
+PROCESS-NAME,/Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
+PROCESS-NAME,/usr/libexec/trustd
+PROCESS-NAME,Mail
+PROCESS-NAME,Google Chrome
