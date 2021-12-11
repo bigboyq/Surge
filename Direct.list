@@ -65,6 +65,10 @@ DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,smartapps.cn
 DOMAIN-SUFFIX,trustgo.com
 
+# > Bilibili
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+
 # > Ce-Air
 DOMAIN-SUFFIX,airpana.com
 DOMAIN-SUFFIX,ce-air.com
