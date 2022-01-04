@@ -28,10 +28,13 @@ DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,convection.cn
 DOMAIN-SUFFIX,ctyunapi.cn
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
@@ -129,6 +132,7 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,url.cn
+DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wecomics.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
