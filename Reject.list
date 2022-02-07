@@ -1,5 +1,5 @@
 # > Bugsnag
-DOMAIN-SUFFIX,bugsnag.com
+#DOMAIN-SUFFIX,bugsnag.com
 
 # > Toutiao
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
