@@ -155,7 +155,6 @@ PROCESS-NAME,OneDriveUpdater
 PROCESS-NAME,Microsoft Outlook
 
 # > Process
-PROCESS-NAME,/Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
 PROCESS-NAME,/usr/libexec/trustd
 PROCESS-NAME,Mail
 PROCESS-NAME,Google Chrome
