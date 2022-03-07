@@ -1,4 +1,4 @@
-if (!$network.v4.primaryAddress) {
+if (await !$network.v4.primaryAddress) {
 	console.log("Network Null");
 	}else{
 	let mesg = $network.v4.primaryAddress + "_" + $network.v4.primaryInterface;
