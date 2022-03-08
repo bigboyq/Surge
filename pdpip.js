@@ -1,7 +1,7 @@
 function onComplete(error, response, data) {
 	if (error) {
-      console.log('Error:'+error);
-    }
+	  console.log('Error:'+error);
+	}
 	if (data) {
 	  console.log('WAN:' + data.replace('\n',''));
 	}
