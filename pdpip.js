@@ -3,7 +3,7 @@ function onComplete(error, response, data) {
       console.log('Error:'+error);
     }
 	if (data) {
-	  console.log('WAN:' + data.split('\n'));
+	  console.log('WAN:' + data.replace('\n',''));
 	}
 	$done();
 }
