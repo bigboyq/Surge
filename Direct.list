@@ -116,6 +116,10 @@ DOMAIN-SUFFIX,venmo.com
 USER-AGENT,PayPal*
 
 # > Tencent
+IP-CIDR,43.154.0.0/16
+IP-CIDR,101.32.0.0/16
+IP-CIDR,124.156.0.0/16
+IP-CIDR,170.106.0.0/16
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,gcloudgbs.com
 DOMAIN-SUFFIX,gcloudsdk.com
@@ -131,6 +135,8 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud-gslb.com
+DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,url.cn
