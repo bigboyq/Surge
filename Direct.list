@@ -152,7 +152,6 @@ DOMAIN-SUFFIX,zhihu.com
 # > Misc
 DOMAIN,ip.istatmenus.app  //iStat Menu IP检测
 DOMAIN-SUFFIX,10010.com	//China Unicom
-IP-CIDR, 172.16.0.0/12	//172 Internal IP
 
 # ------------------------------------------------------------
 
