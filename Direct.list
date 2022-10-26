@@ -152,6 +152,8 @@ DOMAIN-SUFFIX,zhihu.com
 # > Misc
 DOMAIN,ip.istatmenus.app  //iStat Menu IP检测
 DOMAIN-SUFFIX,10010.com	//China Unicom
+DOMAIN-SUFFIX,flyert.com	//Flyertea
+DOMAIN-SUFFIX,flyertea.com	//Flyertea
 
 # ------------------------------------------------------------
 
