@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,baiducontent.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baifubao.com
+DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bcehost.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -148,6 +149,9 @@ USER-AGENT,MicroMessenger*
 
 # > Zhihu
 DOMAIN-SUFFIX,zhihu.com
+
+# > Google CN
+DOMAIN-SUFFIX,googleapis-cn.com
 
 # > Misc
 DOMAIN,ip.istatmenus.app  //iStat Menu IP检测
