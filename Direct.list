@@ -170,6 +170,16 @@ DOMAIN-SUFFIX,chinaunicom.cn
 # > CTCC
 DOMAIN-SUFFIX,189.cn	
 
+# > OCSP
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,digicert-cn.com
+
 # > Misc
 DOMAIN,ip.istatmenus.app  	//iStat Menu IP检测
 DOMAIN-SUFFIX,flyert.com	//Flyertea
