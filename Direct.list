@@ -87,6 +87,7 @@ USER-AGENT,HSBCMobile*
 
 # > IHG
 DOMAIN-SUFFIX,ihg.com
+DOMAIN-SUFFIX,ihg.com.cn
 DOMAIN-SUFFIX,crzytsy.com
 DOMAIN,ihg.scene7.com
 USER-AGENT,ApptentiveConnect*
@@ -149,16 +150,31 @@ USER-AGENT,MicroMessenger*
 
 # > Zhihu
 DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 
 # > Google CN
 DOMAIN-SUFFIX,googleapis-cn.com
 
+# > CMCC
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,online-cmcc.cn
+
+# > CUC
+DOMAIN-SUFFIX,10010.com	
+DOMAIN-SUFFIX,chinaunicom.cn
+
+# > CTCC
+DOMAIN-SUFFIX,189.cn	
+
 # > Misc
-DOMAIN,ip.istatmenus.app  //iStat Menu IP检测
-DOMAIN-SUFFIX,10010.com	//China Unicom
+DOMAIN,ip.istatmenus.app  	//iStat Menu IP检测
 DOMAIN-SUFFIX,flyert.com	//Flyertea
-DOMAIN-SUFFIX,flyertea.com	//Flyertea
 DOMAIN-SUFFIX,xylink.com	//Lanxin+ Meeting
+DOMAIN-SUFFIX,withings.com	//Withings Scale
 
 # ------------------------------------------------------------
 
