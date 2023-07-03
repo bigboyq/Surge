@@ -171,14 +171,15 @@ DOMAIN-SUFFIX,chinaunicom.cn
 DOMAIN-SUFFIX,189.cn	
 
 # > OCSP
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,amazontrust.com
-DOMAIN-SUFFIX,ocsp-certum.com
-DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,comodoca.com
-DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,usertrust.com
 
 # > Misc
 DOMAIN,ip.istatmenus.app  	//iStat Menu IP检测
