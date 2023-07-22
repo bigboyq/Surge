@@ -43,6 +43,7 @@ DOMAIN,dsp-x.jd.com
 DOMAIN,i-resv.meituan.com
 DOMAIN,ip.lx.netease.com
 DOMAIN,janapi.jd.com
+DOMAIN,pv.sohu.com
 DOMAIN,track.mm.taou.cn
 DOMAIN,track.mm.taou.com
 DOMAIN,ux.21cn.com
@@ -61,6 +62,7 @@ DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,xinstall.top
 
 # > CMPassport

@@ -195,10 +195,13 @@ DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,sectigochina.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,trust-provider.cn
 DOMAIN-SUFFIX,usertrust.com
 
 # > Misc
