@@ -175,7 +175,9 @@ DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN-SUFFIX,sectigo.com
