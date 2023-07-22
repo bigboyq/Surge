@@ -81,6 +81,12 @@ DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 
+# > CaiYun Weather
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,cyapi.cn
+DOMAIN-SUFFIX,colorfulclouds.net
+
 # > Ce-Air
 DOMAIN-SUFFIX,airpana.com
 DOMAIN-SUFFIX,ce-air.com
