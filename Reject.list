@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
 
 # > CMPassport
 DOMAIN,config.cmpassport.com
