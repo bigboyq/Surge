@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,xinstall.top
+IP-CIDR,103.41.167.237/32
 
 # > CMPassport
 DOMAIN,config.cmpassport.com
