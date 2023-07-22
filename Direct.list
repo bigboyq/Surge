@@ -204,8 +204,8 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN,ip.istatmenus.app  	//iStat Menu IP检测
 DOMAIN,dns.google
 DOMAIN-SUFFIX,flyert.com	//Flyertea
+DOMAIN-SUFFIX,flyertrip.com	//Flyertea
 DOMAIN-SUFFIX,xylink.com	//Lanxin+ Meeting
-DOMAIN-SUFFIX,withings.com	//Withings Scale
 
 # ------------------------------------------------------------
 
