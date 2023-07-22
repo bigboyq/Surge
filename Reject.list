@@ -1,4 +1,5 @@
 # > Baidu
+DOMAIN,hm.baidu.com
 DOMAIN-SUFFIX,ma-adx.ctrip.com
 DOMAIN-SUFFIX,tuisong.baidu.com
 
@@ -35,9 +36,12 @@ DOMAIN,i-resv.meituan.com
 DOMAIN,ip.lx.netease.com
 DOMAIN,janapi.jd.com
 DOMAIN,track.mm.taou.cn
+DOMAIN,ux.21cn.com
 DOMAIN,xlog.jd.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,cl2009.com
+DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,shuzilm.cn

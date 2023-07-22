@@ -72,7 +72,12 @@ DOMAIN-SUFFIX,smartapps.cn
 DOMAIN-SUFFIX,trustgo.com
 
 # > Bilibili
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilicomic.com
+DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,hdslb.com
 
 # > Ce-Air
@@ -185,6 +190,7 @@ DOMAIN-SUFFIX,usertrust.com
 
 # > Misc
 DOMAIN,ip.istatmenus.app  	//iStat Menu IP检测
+DOMAIN,dns.google
 DOMAIN-SUFFIX,flyert.com	//Flyertea
 DOMAIN-SUFFIX,xylink.com	//Lanxin+ Meeting
 DOMAIN-SUFFIX,withings.com	//Withings Scale
