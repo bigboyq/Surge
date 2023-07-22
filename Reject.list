@@ -19,13 +19,23 @@ DOMAIN,gm.mmstat.com
 DOMAIN,log.mmstat.com
 DOMAIN,wgo.mmstat.com
 
+# > Tencent
+DOMAIN,sdk.e.qq.com
+DOMAIN,ios.bugly.qq.com
+DOMAIN,mazu.m.qq.com
+
 # > Misc
 DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,dsp-x.jd.com
 DOMAIN,i-resv.meituan.com
+DOMAIN,ip.lx.netease.com
+DOMAIN,janapi.jd.com
 DOMAIN,track.mm.taou.cn
+DOMAIN,xlog.jd.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,shuzilm.cn
+DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 
@@ -34,5 +44,6 @@ DOMAIN,config.cmpassport.com
 DOMAIN,config2.cmpassport.com
 DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
+
 # > User Agnet
 USER-AGENT,falldown*
