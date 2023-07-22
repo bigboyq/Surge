@@ -31,12 +31,15 @@ DOMAIN,ios.bugly.qq.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,v2.gdt.qq.com
 
+# > Google
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com:
+DOMAIn-SUFFIX,google-analytics.com
+
 # > Misc
 DOMAIN,ac.dun.163.com
 DOMAIN,acstatic-dun.126.net
-DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,dsp-x.jd.com
-DOMAIN,firebaselogging-pa.googleapis.com:
 DOMAIN,i-resv.meituan.com
 DOMAIN,ip.lx.netease.com
 DOMAIN,janapi.jd.com
