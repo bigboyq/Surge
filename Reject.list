@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,zijieapi.com
 
 # > Ali
 DOMAIN,ad-track.fliggy.com
+DOMAIN,adashbc.ut.taobao.com
 DOMAIN,agoo-report.m.taobao.com
 DOMAIN,amdc.m.taobao.com
 DOMAIN,gm.mmstat.com
@@ -23,8 +24,11 @@ DOMAIN,wgo.mmstat.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,ios.bugly.qq.com
 DOMAIN,mazu.m.qq.com
+DOMAIN,v2.gdt.qq.com
 
 # > Misc
+DOMAIN,ac.dun.163.com
+DOMAIN,acstatic-dun.126.net
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,dsp-x.jd.com
 DOMAIN,i-resv.meituan.com
@@ -33,11 +37,14 @@ DOMAIN,janapi.jd.com
 DOMAIN,track.mm.taou.cn
 DOMAIN,xlog.jd.com
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,cl2009.com
+DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
 
 # > CMPassport
 DOMAIN,config.cmpassport.com
