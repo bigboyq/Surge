@@ -6,17 +6,31 @@ DOMAIN-SUFFIX,tuisong.baidu.com
 DOMAIN-SUFFIX,bugsnag.com
 
 # > Toutiao
+DOMAIN,aweme.snssdk.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,zijieapi.com
 
+# > Ali
+DOMAIN,ad-track.fliggy.com
+DOMAIN,agoo-report.m.taobao.com
+DOMAIN,gm.mmstat.com
+DOMAIN,log.mmstat.com
+DOMAIN,wgo.mmstat.com
+
 # > Misc
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,i-resv.meituan.com
+DOMAIN,track.mm.taou.cn
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,shuzilm.cn
-#DOMAIN-SUFFIX,taou.cn
-#DOMAIN-SUFFIX,taou.com
 DOMAIN-SUFFIX,umeng.com
 
+# > CMPassport
+DOMAIN,config.cmpassport.com
+DOMAIN,config2.cmpassport.com
+DOMAIN,log1.cmpassport.com
+DOMAIN,log2.cmpassport.com
 # > User Agnet
 USER-AGENT,falldown*

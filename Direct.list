@@ -146,7 +146,7 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wecomics.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
-USER-AGENT,MicroMessenger*
+#USER-AGENT,MicroMessenger*
 
 # > Zhihu
 DOMAIN-SUFFIX,zhihu.com
