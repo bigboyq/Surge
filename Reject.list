@@ -34,7 +34,7 @@ DOMAIN,v2.gdt.qq.com
 # > Google
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebaselogging-pa.googleapis.com:
-DOMAIn-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,google-analytics.com
 
 # > Misc
 DOMAIN,ac.dun.163.com
