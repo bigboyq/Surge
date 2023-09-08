@@ -133,4 +133,4 @@ DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,smartlinku.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,volceapplog.com
-IP-CIDR,103.41.167.237/32
+IP-CIDR,103.41.167.237/32,no-resolve
