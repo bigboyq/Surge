@@ -199,8 +199,6 @@ DOMAIN-SUFFIX,usertrust.com
 # > Misc
 DOMAIN,ip.istatmenus.app
 DOMAIN,dns.google
-DOMAIN-SUFFIX,flyert.com
-DOMAIN-SUFFIX,flyertrip.com
 DOMAIN-SUFFIX,xylink.com
 
 # ------------------------------------------------------------
