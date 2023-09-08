@@ -197,11 +197,11 @@ DOMAIN-SUFFIX,trust-provider.cn
 DOMAIN-SUFFIX,usertrust.com
 
 # > Misc
-DOMAIN,ip.istatmenus.app  	//iStat Menu IP检测
+DOMAIN,ip.istatmenus.app
 DOMAIN,dns.google
-DOMAIN-SUFFIX,flyert.com	//Flyertea
-DOMAIN-SUFFIX,flyertrip.com	//Flyertea
-DOMAIN-SUFFIX,xylink.com	//Lanxin+ Meeting
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,flyertrip.com
+DOMAIN-SUFFIX,xylink.com
 
 # ------------------------------------------------------------
 
