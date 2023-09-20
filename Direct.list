@@ -126,10 +126,10 @@ DOMAIN-SUFFIX,venmo.com
 USER-AGENT,PayPal*
 
 # > Tencent
-IP-CIDR,43.154.0.0/16
-IP-CIDR,101.32.0.0/16
-IP-CIDR,124.156.0.0/16
-IP-CIDR,170.106.0.0/16
+IP-CIDR,43.154.0.0/16,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,124.156.0.0/16,no-resolve
+IP-CIDR,170.106.0.0/16,no-resolve
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,gcloudgbs.com
 DOMAIN-SUFFIX,gcloudsdk.com
