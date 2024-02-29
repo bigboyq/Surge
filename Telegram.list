@@ -20,6 +20,7 @@ IP-ASN,62041,no-resolve
 IP-ASN,211157,no-resolve
 # > Discord
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discord.com
