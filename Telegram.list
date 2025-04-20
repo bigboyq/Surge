@@ -26,4 +26,5 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discord.com
 # > Potato
 DOMAIN-SUFFIX,potato.im
-IP-ASN,16509,no-resolve
+# AS 16509 = cloudfront
+# IP-ASN,16509,no-resolve
