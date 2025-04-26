@@ -117,6 +117,7 @@ USER-AGENT,IHGBranded*
 DOMAIN-SUFFIX,marriott.com
 DOMAIN-SUFFIX,linkbroad.com
 DOMAIN-SUFFIX,reivernet.com
+DOMAIN,www.gstatic.com
 
 # > Microsoft
 DOMAIN-SUFFIX,hotmail.com
