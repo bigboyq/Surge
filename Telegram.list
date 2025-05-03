@@ -18,12 +18,13 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-ASN,62041,no-resolve
 IP-ASN,211157,no-resolve
+
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
-DOMAIN-SUFFIX,discord.com
+
 # > Potato
 DOMAIN-SUFFIX,potato.im
 # AS 16509 = cloudfront
