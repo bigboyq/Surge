@@ -99,12 +99,6 @@ DOMAIN-SUFFIX,muflyer.com
 DOMAIN-SUFFIX,inflightpanasonic.aero
 IP-CIDR,211.152.208.0/24
 
-# > HSBC
-DOMAIN-SUFFIX,hsbc.com
-DOMAIN-SUFFIX,hsbc.com.cn
-DOMAIN-SUFFIX,hsbc.com.hk
-USER-AGENT,HSBCMobile*
-
 # > IHG
 DOMAIN-SUFFIX,ihg.com
 DOMAIN-SUFFIX,ihg.com.cn
@@ -115,6 +109,7 @@ USER-AGENT,IHGBranded*
 
 # > Marriott
 DOMAIN-SUFFIX,marriott.com
+DOMAIN-SUFFIX,amttgroup.com
 DOMAIN-SUFFIX,linkbroad.com
 DOMAIN-SUFFIX,reivernet.com
 DOMAIN,www.gstatic.com
@@ -218,6 +213,7 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,dns.google
 DOMAIN-SUFFIX,day.app
+DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,xylink.com
 
 # > Private network
