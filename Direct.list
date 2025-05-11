@@ -96,6 +96,9 @@ DOMAIN-SUFFIX,muflyer.com
 DOMAIN-SUFFIX,inflightpanasonic.aero
 IP-CIDR,211.152.208.0/24
 
+# > Hilton
+DOMAIN-SUFFIX,freedomx.net.cn
+
 # > IHG
 DOMAIN-SUFFIX,ihg.com
 DOMAIN-SUFFIX,ihg.com.cn

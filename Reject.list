@@ -9,9 +9,6 @@ DOMAIN,dualstack-logs.amap.com
 DOMAIN,err.taobao.com
 DOMAIN,nr-op.elemecdn.com
 DOMAIN-SUFFIX,mmstat.com
-#DOMAIN,gm.mmstat.com
-#DOMAIN,log.mmstat.com
-#DOMAIN,wgo.mmstat.com
 
 # > Baidu
 DOMAIN,hm.baidu.com
