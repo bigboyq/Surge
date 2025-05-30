@@ -98,6 +98,7 @@ IP-CIDR,211.152.208.0/24
 
 # > Hilton
 DOMAIN-SUFFIX,freedomx.net.cn
+IP-CIDR,1.1.1.0/24,no-resolve
 
 # > IHG
 DOMAIN-SUFFIX,ihg.com
@@ -205,6 +206,8 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,dns.google
 DOMAIN-SUFFIX,day.app
+DOMAIN-SUFFIX,soulapp.cn
+DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,xylink.com
 
