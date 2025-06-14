@@ -16,6 +16,9 @@ DOMAIN,ota.lokalise.co
 DOMAIN-SUFFIX,withings.net
 DOMAIN-SUFFIX,withings.com
 
+# > Garmin
+DOMAIN-SUFFIX,garmin.com
+
 # > HSBC
 DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.cn
