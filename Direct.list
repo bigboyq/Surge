@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN,captive.apple.com
+DOMAIN,www.apple.com
 USER-AGENT,notificationService*
 
 # > Baidu
