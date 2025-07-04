@@ -98,11 +98,13 @@ IP-CIDR,211.152.208.0/24
 
 # > Hilton
 DOMAIN-SUFFIX,freedomx.net.cn
+DOMAIN-SUFFIX,globalsuite.net
 IP-CIDR,1.1.1.0/24,no-resolve
 
 # > IHG
 DOMAIN-SUFFIX,ihg.com
 DOMAIN-SUFFIX,ihg.com.cn
+DOMAIN-SUFFIX,ihgwechat.com.cn
 DOMAIN-SUFFIX,crzytsy.com
 DOMAIN,ihg.scene7.com
 USER-AGENT,ApptentiveConnect*
@@ -154,12 +156,14 @@ DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent-cloud-gslb.com
 DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wecomics.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weiyun.com
 #USER-AGENT,MicroMessenger*
 
