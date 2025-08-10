@@ -1,3 +1,9 @@
+# > Generate_204
+DOMAIN,cp.cloudflare.com
+DOMAIN,captive.apple.com
+DOMAIN,www.apple.com
+DOMAIN,www.gstatic.com
+
 # > Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,95095.com
@@ -41,8 +47,6 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,www-cdn.icloud.com.akadns.net
-DOMAIN,captive.apple.com
-DOMAIN,www.apple.com
 USER-AGENT,notificationService*
 
 # > Baidu
@@ -117,7 +121,6 @@ DOMAIN-SUFFIX,marriott.com
 DOMAIN-SUFFIX,amttgroup.com
 DOMAIN-SUFFIX,linkbroad.com
 DOMAIN-SUFFIX,reivernet.com
-DOMAIN,www.gstatic.com
 
 # > Microsoft
 DOMAIN-SUFFIX,hotmail.com
