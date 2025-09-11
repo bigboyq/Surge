@@ -113,6 +113,7 @@ IP-CIDR,211.152.208.0/24
 # > CDN
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,tcdnos.com
 DOMAIN-SUFFIX,xhscdn.com
 
 # > Hilton
