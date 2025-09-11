@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
@@ -42,14 +43,19 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,convection.cn
-DOMAIN-SUFFIX,ctyunapi.cn
 DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,icloud-content.com.cn
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+
+# > Apple iCloud
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,ctyunapi.cn
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,tencentcos.cn
 DOMAIN,www-cdn.icloud.com.akadns.net
-USER-AGENT,notificationService*
 
 # > Baidu
 DOMAIN-SUFFIX,91.com
@@ -103,6 +109,11 @@ DOMAIN-SUFFIX,ceair.com
 DOMAIN-SUFFIX,muflyer.com
 DOMAIN-SUFFIX,inflightpanasonic.aero
 IP-CIDR,211.152.208.0/24
+
+# > CDN
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,xhscdn.com
 
 # > Hilton
 DOMAIN-SUFFIX,freedomx.net.cn
