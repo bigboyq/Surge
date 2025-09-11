@@ -44,6 +44,8 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,convection.cn
 DOMAIN-SUFFIX,ctyunapi.cn
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,www-cdn.icloud.com.akadns.net
@@ -108,6 +110,7 @@ DOMAIN-SUFFIX,globalsuite.net
 IP-CIDR,1.1.1.0/24,no-resolve
 
 # > IHG
+DOMAIN-SUFFIX,amazonaws.com.cn
 DOMAIN-SUFFIX,ihg.com
 DOMAIN-SUFFIX,ihg.com.cn
 DOMAIN-SUFFIX,ihgwechat.com.cn
