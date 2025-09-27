@@ -29,3 +29,8 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,potato.im
 # AS 16509 = cloudfront
 # IP-ASN,16509,no-resolve
+
+# > Nico
+DOMAIN-SUFFIX,immomo.com
+DOMAIN-SUFFIX,inicoapp.com
+DOMAIN-SUFFIX,tantanapp.com
