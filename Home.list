@@ -15,7 +15,6 @@ DOMAIN,ota.lokalise.co
 # > Withings
 DOMAIN-SUFFIX,withings.net
 DOMAIN-SUFFIX,withings.com
-
 # > Garmin
 DOMAIN-SUFFIX,garmin.com
 
@@ -26,6 +25,8 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbc.com.mx
 DOMAIN-KEYWORD,hsbc,Home
 USER-AGENT,HSBCMobile*
+# > Futu
+DOMAIN-SUFFIX,futunn.com
 
 # > CMCC
 DOMAIN-SUFFIX,10086.cn
@@ -38,11 +39,9 @@ DOMAIN-SUFFIX,komect.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,online-cmcc.cn
-
 # > CUC
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,chinaunicom.cn
 DOMAIN-SUFFIX,unicompayment.com
-
 # > CTCC
 DOMAIN-SUFFIX,189.cn
