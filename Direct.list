@@ -1,0 +1,245 @@
+# > Generate_204
+DOMAIN,cp.cloudflare.com
+DOMAIN,captive.apple.com
+DOMAIN,www.apple.com
+DOMAIN,www.gstatic.com
+
+# > Alibaba
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,95095.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,aliimg.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alitrip.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiao.com.cn
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,etao.com
+DOMAIN-SUFFIX,feizhu.cn
+DOMAIN-SUFFIX,feizhu.com
+DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,fliggy.hk
+DOMAIN-SUFFIX,juhuasuan.com
+DOMAIN-SUFFIX,mei.com
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taopiaopiao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,xiami.com
+
+# > Apple
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,convection.cn
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+
+# > Apple iCloud
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,ctyunapi.cn
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,tencentcos.cn
+DOMAIN,www-cdn.icloud.com.akadns.net
+
+# > Baidu
+DOMAIN-SUFFIX,91.com
+DOMAIN-SUFFIX,aipage.cn
+DOMAIN-SUFFIX,aipage.com
+DOMAIN-SUFFIX,apollo.auto
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,baidu.cn
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidu.com.cn
+DOMAIN-SUFFIX,baiducontent.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,baifubao.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,bcehost.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bdtjrcv.com
+DOMAIN-SUFFIX,chuanke.com
+DOMAIN-SUFFIX,dlnel.com
+DOMAIN-SUFFIX,dlnel.org
+DOMAIN-SUFFIX,dwz.cn
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,haokan.com
+DOMAIN-SUFFIX,mipcdn.com
+DOMAIN-SUFFIX,smartapps.cn
+DOMAIN-SUFFIX,trustgo.com
+
+# > Bilibili
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilicomic.com
+DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+
+# > CaiYun Weather
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,cyapi.cn
+DOMAIN-SUFFIX,colorfulclouds.net
+
+# > Ce-Air
+DOMAIN-SUFFIX,3wft.com
+DOMAIN-SUFFIX,airpana.com
+DOMAIN-SUFFIX,ce-air.com
+DOMAIN-SUFFIX,ceair.com
+DOMAIN-SUFFIX,muflyer.com
+DOMAIN-SUFFIX,inflightpanasonic.aero
+IP-CIDR,211.152.208.0/24
+
+# > CDN
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,tcdnos.com
+DOMAIN-SUFFIX,xhscdn.com
+
+# > Hilton
+DOMAIN-SUFFIX,freedomx.net.cn
+DOMAIN-SUFFIX,globalsuite.net
+IP-CIDR,1.1.1.0/24,no-resolve
+
+# > IHG
+DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,ihg.com
+DOMAIN-SUFFIX,ihg.com.cn
+DOMAIN-SUFFIX,ihgwechat.com.cn
+DOMAIN-SUFFIX,crzytsy.com
+DOMAIN,ihg.scene7.com
+USER-AGENT,ApptentiveConnect*
+USER-AGENT,IHGBranded*
+
+# > Marriott
+DOMAIN-SUFFIX,marriott.com
+DOMAIN-SUFFIX,amttgroup.com
+DOMAIN-SUFFIX,linkbroad.com
+DOMAIN-SUFFIX,reivernet.com
+
+# > Microsoft
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,windows.net
+USER-AGENT,OneDrive*
+
+# > Tencent
+IP-CIDR,43.154.0.0/16,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,124.156.0.0/16,no-resolve
+IP-CIDR,170.106.0.0/16,no-resolve
+DOMAIN-SUFFIX,cdn-go.cn
+DOMAIN-SUFFIX,gcloudgbs.com
+DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud-gslb.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,url.cn
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wecomics.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weiyun.com
+#USER-AGENT,MicroMessenger*
+
+# > Zhihu
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
+# > Google CN
+DOMAIN-SUFFIX,googleapis-cn.com
+
+# > OCSP
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,rapidssl.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,sectigochina.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,trust-provider.cn
+DOMAIN-SUFFIX,usertrust.com
+
+# > Misc
+DOMAIN,ip.istatmenus.app
+DOMAIN,dns.google
+DOMAIN-SUFFIX,day.app
+DOMAIN-SUFFIX,soulapp.cn
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,xylink.com
+
+# > Private network
+IP-CIDR,10.0.0.0/8, no-resolve
+IP-CIDR,30.0.0.0/8, no-resolve
+IP-CIDR,100.64.0.0/10, no-resolve
+IP-CIDR,127.0.0.0/8, no-resolve
+IP-CIDR,172.16.0.0/12, no-resolve
+IP-CIDR,192.0.0.0/24, no-resolve
+IP-CIDR,192.168.0.0/16, no-resolve
+IP-CIDR,198.88.99.0/24, no-resolve
+# ------------------------------------------------------------
+
+# > OneDrive
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
+
+# > Outlook
+PROCESS-NAME,Microsoft Outlook
+
+# > Process
+PROCESS-NAME,/usr/libexec/trustd
+PROCESS-NAME,Mail
+PROCESS-NAME,Google Chrome
