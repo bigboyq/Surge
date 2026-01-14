@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,immomo.com
 DOMAIN-SUFFIX,inicoapp.com
 DOMAIN-SUFFIX,tantanapp.com
+
+# > Whatsapp
+DOMAIN-SUFFIX,whatsapp.com
