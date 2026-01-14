@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,dmm.ai
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-KEYWORD,twitter
-IP-ASN,13414,no-resolve
+#IP-ASN,13414,no-resolve
 
 # > Misc 
 DOMAIN-SUFFIX,bandwagonhost.com
