@@ -18,12 +18,15 @@ DOMAIN-SUFFIX,withings.com
 # > Garmin
 DOMAIN-SUFFIX,garmin.com
 
+# > CMBWingLung-CMBHK
+DOMAIN-SUFFIX,cmbwinglungbank.com
+# > CMBC-MingShengHK
+DOMAIN-SUFFIX,cmbc.com.hk
 # > HSBC
 DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,hsbc.com.mx
-DOMAIN-KEYWORD,hsbc,Home
+DOMAIN-KEYWORD,hsbc
 USER-AGENT,HSBCMobile*
 # > Futu
 DOMAIN-SUFFIX,futunn.com
