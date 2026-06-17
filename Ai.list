@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futustatic.com
 IP-CIDR,43.128.254.0/23,no-resolve
 IP-CIDR,43.153.128.0/18,no-resolve
+IP-CIDR,43.153.128.0/18,no-resolve
 IP-CIDR,43.153.192.0/18,no-resolve
 IP-CIDR,101.33.192.0/23,no-resolve
 IP-CIDR,106.55.192.0/18,no-resolve
