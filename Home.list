@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-KEYWORD,hsbc
 USER-AGENT,HSBCMobile*
 # > Futu
-DOMAIN-SUFFIX,futunn.com
+#DOMAIN-SUFFIX,futunn.com
 
 # > CMCC
 #DOMAIN-SUFFIX,10086.cn
