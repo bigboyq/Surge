@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,xhscdn.com
 # > Hilton
 DOMAIN-SUFFIX,freedomx.net.cn
 DOMAIN-SUFFIX,globalsuite.net
+DOMAIN-SUFFIX,network-auth.cn
 IP-CIDR,1.1.1.0/24,no-resolve
 
 # > IHG
@@ -201,7 +202,7 @@ DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,godaddy.com
+# DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN-SUFFIX,pki.goog

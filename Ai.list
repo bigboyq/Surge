@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,usefathom.com
 
 # OPENAI
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com

@@ -51,8 +51,9 @@ DOMAIN-KEYWORD,twitter
 #IP-ASN,13414,no-resolve
 
 # > Misc 
-DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,redd.it
