@@ -1,4 +1,4 @@
-# > AI Risk Control
+# > Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
@@ -19,17 +19,39 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,withpersona.com
 
 # Google
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,colab.dev
+DOMAIN-SUFFIX,flow-content.google
+DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,usercontent.goog
 IP-CIDR,142.251.0.0/16,no-resolve
+
+# > Other AI
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,pollinations.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,replicate.delivery
+DOMAIN-SUFFIX,x.ai
+
+# > Code Assistants
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
 
 # FUTU
 DOMAIN-SUFFIX,futuhn.com
