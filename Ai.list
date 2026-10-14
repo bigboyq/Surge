@@ -20,6 +20,17 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
 
+# Google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,colab.dev
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,run.app
+DOMAIN-SUFFIX,usercontent.goog
+IP-CIDR,142.251.0.0/16,no-resolve
+
 # FUTU
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futunn.com
